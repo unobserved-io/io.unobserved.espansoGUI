@@ -27,8 +27,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/unobserved-io/espanso-gui/releases/download/2023.09.15/espanso-gui-2023.09.15.tar.xz",
-          "sha256": "f34a773d6ee604a13915c7c2bec22994cdbbbe1c40dfa21c850080923479a236"
+          "url": "https://github.com/unobserved-io/espanso-gui/releases/download/23.10/espanso-gui-offline-23.10.tar.xz",
+          "sha256": "3bdd74a476b9ca5b39f0dfee54c262fed35b92f7b1d6e641eb384745d652413a"
         }
       ]
     }
